@@ -4,10 +4,10 @@
 
 ## About Me
 
-I'm a passionate QA automation engineer with a strong interest in building reliable and scalable UI test automation solutions. I enjoy exploring modern testing tools and continuously improving my skills.
+I'm a passionate QA automation engineer with a strong interest in building reliable and scalable UI test automation solutions. I enjoy exploring modern testing tools and continuously improving my skills in automation and software quality.
 
-- 🔭 I’m currently working on OrangeHRM Playwright Automation.
-- 🌱 I’m currently learning Playwright with TypeScript and advanced test automation practices.
+- 🔭 I'm currently working on OrangeHRM Playwright Automation.
+- 🌱 I'm currently learning Playwright with TypeScript and advanced test automation practices.
 - 📫 How to reach me: safiqurrahman7d@gmail.com
 - 😄 Pronouns: Him
 
@@ -19,7 +19,7 @@ I'm a passionate QA automation engineer with a strong interest in building relia
 
 Here is my notable project:
 
-1. **OrangeHRM Playwright Automation** - This project contains Playwright-based UI automation tests for OrangeHRM, built using Playwright, TypeScript, and Node.js. It focuses on login flow automation, reusable test structure, and detailed reporting.
+1. **OrangeHRM Playwright Automation** - This project contains Playwright-based UI automation tests for OrangeHRM, built using Playwright, TypeScript, and Node.js. It focuses on login flow automation, employee management, and comprehensive test reporting.
 
 ## 🚀 Skills & Tech Stack
 
@@ -37,7 +37,7 @@ Here is my notable project:
 
 ## Top Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safiqurrahmanG7&langs_count=8&layout=compact&theme=github_dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safiqurrahmang7&langs_count=8&layout=compact&theme=github_dark)
 
 ---
 
