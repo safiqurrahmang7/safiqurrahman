@@ -13,7 +13,7 @@ I'm a passionate QA automation engineer with a strong interest in building relia
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/safiqurrahmansoftwareengineer)
+- [LinkedIn](https://www.linkedin.com/in/safiqur-rahman-qa/)
 
 ## Projects
 
