@@ -8,7 +8,7 @@ I'm a passionate QA automation engineer with a strong interest in building relia
 
 - 🔭 I’m currently working on OrangeHRM Playwright Automation.
 - 🌱 I’m currently learning Playwright with TypeScript and advanced test automation practices.
-- 📫 How to reach me: safiqurrahmang7@gmail.com
+- 📫 How to reach me: safiqurrahman7d@gmail.com
 - 😄 Pronouns: Him
 
 ## Connect with Me
