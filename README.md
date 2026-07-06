@@ -35,10 +35,6 @@ Here is my notable project:
 
 - **Bachelor of Computer Applications (BCA)**, Hindusthan College Of Arts and Science, 2021
 
-## Top Languages
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safiqurrahmang7&langs_count=8&layout=compact&theme=github_dark&cache_seconds=86400)
-
 ---
 
 *Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate.*
