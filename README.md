@@ -37,7 +37,7 @@ Here is my notable project:
 
 ## Top Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safiqurrahmang7&langs_count=8&layout=compact&theme=github_dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safiqurrahmang7&langs_count=8&layout=compact&theme=github_dark&cache_seconds=86400)
 
 ---
 
